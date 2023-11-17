@@ -1,5 +1,5 @@
 <item>
-<version>2.0.0.0</version>
+<version>2.0.0.3</version>
 <url>https://raw.githubusercontent.com/bizzstone/APSR3P0/master/1.0.0.1/1.0.0.2.zip</url>
-<changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+<changelog>https://raw.githubusercontent.com/bizzstone/APSR3P0/master/updater.xml</changelog>
 </item>
