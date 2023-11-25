@@ -1,7 +1,22 @@
-1.0.0.2
-Tanggal     17-11-2023
+2.0.4.4
+Tanggal 24-11-2023
+- Fix bug kertas F4
+- Penambahan WaitForm
+- Tambah Fungsi Backup/Restore Basis Data
+- Tambah Fungsi Cetak All Permohonan Ukur
+- Tambah Fungsi Cetak Berkas Konversi
+
 
 2.0.4.3
 Tanggal 20-11-2023
 - Set Ukuran Kertas Folio Pada Laporan Word
+- Tambah Fungsi Update Data Pengajuan
+- Tambah Fungsi Cadangkan Basis Data
+- Tambah Fungsi Pulihkan Basis Data
+- Tambah Fungsi Cetak Lap Sporadik
+- Tambah Fungsi Cetak Lampiran 2
+- Tambah Fungsi Cetak Surat  Ket Desa
 
+
+2.0.2.3
+Tanggal     18-11-2023
