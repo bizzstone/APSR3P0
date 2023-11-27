@@ -1,6 +1,10 @@
+2.0.4.6
+Tanggal 27-11-2023
+- Fix bug Simpan Input Data
+
 2.0.4.5
 Tanggal 27-11-2023
--Fix bug backup/restore data
+- Fix bug backup/restore data
 
 
 2.0.4.4
