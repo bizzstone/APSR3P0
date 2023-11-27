@@ -1,3 +1,8 @@
+2.0.4.5
+Tanggal 27-11-2023
+-Fix bug backup/restore data
+
+
 2.0.4.4
 Tanggal 24-11-2023
 - Fix bug kertas F4
@@ -20,3 +25,4 @@ Tanggal 20-11-2023
 
 2.0.2.3
 Tanggal     18-11-2023
+Rilis Pertama
