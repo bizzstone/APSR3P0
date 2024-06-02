@@ -1,13 +1,16 @@
 2.0.4.6
+
 Tanggal 27-11-2023
 - Fix bug Simpan Input Data
 
 2.0.4.5
+
 Tanggal 27-11-2023
 - Fix bug backup/restore data
 
 
 2.0.4.4
+
 Tanggal 24-11-2023
 - Fix bug kertas F4
 - Penambahan WaitForm
@@ -17,6 +20,7 @@ Tanggal 24-11-2023
 
 
 2.0.4.3
+
 Tanggal 20-11-2023
 - Set Ukuran Kertas Folio Pada Laporan Word
 - Tambah Fungsi Update Data Pengajuan
@@ -28,5 +32,6 @@ Tanggal 20-11-2023
 
 
 2.0.2.3
+
 Tanggal     18-11-2023
 Rilis Pertama
