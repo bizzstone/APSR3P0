@@ -1,5 +1,7 @@
-2.7.0.3
-
+2.7.0.4
+Tanggal 15-06-2024
+- Penambahan menu riwayat tanah
+- penambahan saksi dan jenis permohonan
 
 2.0.4.6
 
